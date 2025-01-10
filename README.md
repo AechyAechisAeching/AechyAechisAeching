@@ -2,13 +2,6 @@
 
 <h1 align="center">Welcome to my profile!</h1>
 
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
 
 <h2 align="center">Experience with</h2>
 
