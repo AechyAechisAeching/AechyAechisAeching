@@ -1,16 +1,13 @@
 <h1 align="center">Welcome to my profile!</h1>
 
 <p align="center">
-  I'm <b>Aech</b>, a passionate software developer who loves creating apps, games, and fun projects.<br>
-  Always learning, always building
+  I'm <b>Aech</b>, a passionate software developer who loves raccoons<br>
 </p>
 
 ---
 
 ## 📱 What I Build
-- Cross-platform **apps** with React Native
-- Websites
-- I kinda like shadCN
+- Cross-platform **apps/Webapps** with React Native
 ---
 
 ## 📊 My Dev Stats
