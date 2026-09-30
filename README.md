@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my profile!</h1>
 
 <p align="center">
-  I'm <b>Aech</b>, a passionate software developer<br>
+  I'm <b>Vincent</b>, a software developer<br>
 </p>
 
 ---
