@@ -1,10 +1,21 @@
-<h1 align="center">Welcome to my profile!</h1>
+<h1 align="center">Hello 👋</h1>
 
 <p align="center">
-  I'm <b>Vincent</b>, a software developer<br>
+  I'm <b>Vincent</b>, a student software developer<br>
 </p>
 
 ---
+
+## Quick about
+My name is Vincent and I am a third year student at Alfa-college, I currently specialise into creating Websites. <br>
+My most used frameworks are:
+- <a href="https://astro.build/">Astro</a> 
+- <a href="https://laravel.com/">Laravel</a>
+- <a href="https://nextjs.org/">NextJS</a>
+
+PS: I mostly use <a href="https://ui.shadcn.com/">shadCN</a> for component libraries. <br>
+
+For JavaScript libraries I use <a href="https://react.dev/">React</a> to build cleaner User Interfaces.
 
 ## 📊 My Dev Stats
 
