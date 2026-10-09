@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋</h1>
 
 <p align="center">
-  I'm <b>Vincent</b>, a student software developer<br>
+  I'm <b>Vincent</b>, a software developer student<br>
 </p>
 
 ---
