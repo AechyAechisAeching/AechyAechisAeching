@@ -13,10 +13,6 @@ My most used frameworks are:
 - <a href="https://laravel.com/">Laravel</a>
 - <a href="https://nextjs.org/">NextJS</a>
 
-PS: I mostly use <a href="https://ui.shadcn.com/">shadCN</a> for component libraries. <br>
-
-For JavaScript libraries I use <a href="https://react.dev/">React</a> to build cleaner User Interfaces.
-
 ## 📊 My Dev Stats
 
 <div align="center">
